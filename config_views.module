@@ -1,0 +1,13 @@
+<?php
+/**
+ * @file
+ * Contains Config Views implementation.
+ */
+
+/**
+ * Helper to get the configuration for views.
+ */
+
+function config_views_query() {
+
+}
